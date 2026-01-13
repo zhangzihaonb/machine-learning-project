@@ -1,0 +1,12 @@
+# Datasets
+metric/
+dataset/
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
